@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olesya Ogurtsova
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analysis and NLP
 - 📫 How to reach me - @lesenock at Telegram
 
 <!---
